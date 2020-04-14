@@ -1,4 +1,4 @@
-# Tweet Sentiment Prediction
+# Predicting Tweet Sentiment
 
 ## Summary
 This analysis attempts to train a couple of machine learning models to predict the sentiment of tweets.
